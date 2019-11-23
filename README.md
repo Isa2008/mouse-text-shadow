@@ -1,6 +1,6 @@
 # Text Shadow Mouse Move Effect
 
-## CSS & DOM & INTERFACE ##
+## CSS & VANILLA JAVASCRIPT & DOM & INTERFACE ##
 
 Try it here https://isa2008.github.io/mouse-text-shadow/
 
